@@ -23,7 +23,7 @@ Usage of insTof for attacking targets without prior mutual consent is illegal. I
 ## Getting Started
 1. ```git clone https://github.com/Wqrtex/Wqrtex-brute-force.git```
 2. ```pip3 install colorama```
-3. ```cd Brute-force-Instagram-2023```
+3. ```cd Brute-force-Instagram-2022-Wqrtex```
 4. ```python3 Qwrtex.py```
 
 
